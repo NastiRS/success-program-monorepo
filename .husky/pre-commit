@@ -1,0 +1,6 @@
+turbo lint
+
+turbo check-types
+
+turbo format
+
